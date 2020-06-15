@@ -1,3 +1,9 @@
+Install Command Line Tools
+
+In order to install Homebrew, you need to install either the Xcode Command Line Tools (about 100 MB) or the full Xcode package (about 10 GB). 
+
+Command Line Tools gives Mac users many commonly used tools, utilities, and compilers. One advantage of this is that when you install Command Line Tools, it installs Git which you need as Homebrew is essentially all Git and Ruby scripts underneath.
+
 
 Install xCode Command line Tools:
 

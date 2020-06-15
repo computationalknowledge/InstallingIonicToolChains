@@ -26,4 +26,8 @@ Next, install git using BREW
 
 Terminal:>  brew install git
 
+Create your first app IONIC App using: ionicframework.com
+Install Ionic and start your app:
 
+npm install -g ionic
+ionic start myApp

@@ -8,3 +8,9 @@ Command Line Tools gives Mac users many commonly used tools, utilities, and comp
 Install xCode Command line Tools:
 
 xcode-select --install
+
+Check if Command Line Tools is installed by entering at the Terminal Prompt:
+
+xcode-select -p
+
+

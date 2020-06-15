@@ -31,3 +31,17 @@ Install Ionic and start your app:
 
 npm install -g ionic
 ionic start myApp
+
+761789 Jaspreet Singh: Homebrew is MacOSX only command line installer application and it doesn't exist for Windows.
+
+The Windows alternatives are:
+
+Chocolatey
+Npackd
+Scoop
+OneGet for Windows 10
+
+C0773774_Nitin_Jaswal: next step
+
+C0764944_Nimit: you can get Yarn , that works same as brew 
+

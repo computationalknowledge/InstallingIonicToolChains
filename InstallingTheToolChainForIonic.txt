@@ -20,3 +20,10 @@ Install Homebrew
 Open a terminal and type the command below. You’ll be prompted to give your password, which is usually the one that you also use to unlock your Mac when you start it up. After you enter your password, the installation will start.
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+Next, install git using BREW
+
+Terminal:>  brew install git
+
+

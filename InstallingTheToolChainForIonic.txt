@@ -48,4 +48,4 @@ C0764944_Nimit: you can get Yarn , that works same as brew
 
 c0764921_Lijosh: https://ionicframework.com/start
 
-761789 Jaspreet Singh: npm install -g @ionic/cli
+761789 Jaspreet Singh: npm install  @ionic/cli

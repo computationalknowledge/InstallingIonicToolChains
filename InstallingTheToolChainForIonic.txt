@@ -1,3 +1,5 @@
+or windows : https://ionicframework.com/docs/intro/environment
+
 Install Command Line Tools
 
 In order to install Homebrew, you need to install either the Xcode Command Line Tools (about 100 MB) or the full Xcode package (about 10 GB). 
